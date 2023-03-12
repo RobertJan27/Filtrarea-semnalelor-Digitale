@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Jan 19 08:55:04 2023
+# Process ID: 20980
+# Current directory: E:/Laboratoare an 3/SSC/Proiect SSC/project_2/project_2.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source E:/Laboratoare an 3/SSC/Proiect SSC/project_2/project_2.sim/sim_1/behav/xsim.dir/Wavelength_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/Laboratoare an 3/SSC/Proiect SSC/project_2/project_2.sim/sim_1/behav/webtalk.log
+# Journal file: E:/Laboratoare an 3/SSC/Proiect SSC/project_2/project_2.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source E:/Laboratoare -notrace

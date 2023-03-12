@@ -1,0 +1,1 @@
+-wto "277b3b6b94fe4e38bb049b43fd4e17a8" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Wavelength_behav" "xil_defaultlib.Wavelength" -log "elaborate.log" 
